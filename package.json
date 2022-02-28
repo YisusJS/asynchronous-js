@@ -1,0 +1,15 @@
+{
+  "name": "asynchrony",
+  "version": "1.0.0",
+  "description": "Asynchrony platzi course",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "callback": "nodemon ./src/callbacks/index.js",
+    "promise": "nodemon ./src/promises/index.js",
+    "async_await": "nodemon ./src/async_await/index.js"
+  },
+  "author": "Edwin Páez",
+  "license": "MIT",
+  "dependencies": {}
+}
